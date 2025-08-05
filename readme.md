@@ -6,6 +6,7 @@ This project implements a machine learning model to detect forest fires based on
 
 ## 📁 Project Structure
 
+
 forest-fire-detection/
 │
 ├── data/
@@ -21,7 +22,7 @@ forest-fire-detection/
 ├── requirements.txt # List of dependencies
 └── .gitignore # Files to ignore in git
 
----
+
 
 ## 📊 Dataset Information
 
@@ -59,6 +60,7 @@ forest-fire-detection/
 ### 1. Clone the repository
 
 git clone https://github.com/nikhilmalgar/forest-fire-detection.git
+
 cd forest-fire-detection
 
 ## 2. Install dependencies
@@ -91,5 +93,7 @@ Graphs showing feature distribution
 
 Nikhil Malagar
 B.Tech in CSE (AI & ML) | Passionate about AI, ML, and Full Stack Development
-GitHub Profile
+
+GitHub https://github.com/nikhilmalgar
+
 LinkedIn www.linkedin.com/in/nikhil-malgar-549064262
