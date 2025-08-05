@@ -8,6 +8,7 @@ This project implements a machine learning model to detect forest fires based on
 
 
 forest-fire-detection/
+
 │
 ├── data/
 │ └── forestfire_dataset.csv # Raw dataset
@@ -63,11 +64,8 @@ git clone https://github.com/nikhilmalgar/forest-fire-detection.git
 
 cd forest-fire-detection
 
-## 2. Install dependencies
 
-pip install -r requirements.txt
-
-## 3. Launch the Jupyter Notebook
+## 2. Launch the Jupyter Notebook
 
 jupyter notebook notebooks/forest_fire_analysis.ipynb
 
