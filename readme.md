@@ -6,22 +6,23 @@ This project implements a machine learning model to detect forest fires based on
 
 ## 📁 Project Structure
 
-
+```plaintext
 forest-fire-detection/
-
 │
 ├── data/
-│ └── forestfire_dataset.csv # Raw dataset
+│   └── forestfire_dataset.csv           # Raw dataset
 │
 ├── notebooks/
-│ └── forest_fire_analysis.ipynb # Main notebook for EDA + modeling
+│   └── forest_fire_analysis.ipynb       # Main notebook for EDA + modeling
 │
 ├── src/
-│ └── model.py # Optional: model training script
+│   └── model.py                         # Optional: model training script
 │
-├── README.md # Project documentation
-├── requirements.txt # List of dependencies
-└── .gitignore # Files to ignore in git
+├── README.md                            # Project documentation
+├── requirements.txt                     # List of dependencies
+└── .gitignore                           # Files to ignore in git
+```
+
 
 
 
